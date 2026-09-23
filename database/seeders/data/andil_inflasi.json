@@ -1,0 +1,842 @@
+[
+  {
+    "bulan": "Januari",
+    "urutan_bulan": 1,
+    "kelompok": "Umum (Headline)",
+    "mtm": -1.02,
+    "ytd": -1.02,
+    "yoy": 3.88,
+    "andil_mtm": -1.02,
+    "andil_yoy": 3.88
+  },
+  {
+    "bulan": "Januari",
+    "urutan_bulan": 1,
+    "kelompok": "Makanan, Minuman, dan Tembakau",
+    "mtm": -3.37,
+    "ytd": -3.37,
+    "yoy": 2.13,
+    "andil_mtm": -0.99,
+    "andil_yoy": 0.62
+  },
+  {
+    "bulan": "Januari",
+    "urutan_bulan": 1,
+    "kelompok": "Pakaian dan Alas Kaki",
+    "mtm": 0.17,
+    "ytd": 0.17,
+    "yoy": 0.29,
+    "andil_mtm": 0.01,
+    "andil_yoy": 0.02
+  },
+  {
+    "bulan": "Januari",
+    "urutan_bulan": 1,
+    "kelompok": "Perumahan, Air, Listrik, dan Bahan Bakar Rumah Tangga",
+    "mtm": -0.99,
+    "ytd": -0.99,
+    "yoy": 8.38,
+    "andil_mtm": -0.19,
+    "andil_yoy": 1.51
+  },
+  {
+    "bulan": "Januari",
+    "urutan_bulan": 1,
+    "kelompok": "Perlengkapan, Peralatan, dan Pemeliharaan Rutin Rumah Tangga",
+    "mtm": 0.48,
+    "ytd": 0.48,
+    "yoy": 0.2,
+    "andil_mtm": 0.02,
+    "andil_yoy": 0.01
+  },
+  {
+    "bulan": "Januari",
+    "urutan_bulan": 1,
+    "kelompok": "Kesehatan",
+    "mtm": 0.42,
+    "ytd": 0.42,
+    "yoy": 0.61,
+    "andil_mtm": 0.01,
+    "andil_yoy": 0.02
+  },
+  {
+    "bulan": "Januari",
+    "urutan_bulan": 1,
+    "kelompok": "Transportasi",
+    "mtm": -0.6,
+    "ytd": -0.6,
+    "yoy": 2.88,
+    "andil_mtm": -0.07,
+    "andil_yoy": 0.34
+  },
+  {
+    "bulan": "Januari",
+    "urutan_bulan": 1,
+    "kelompok": "Informasi, Komunikasi, dan Jasa Keuangan",
+    "mtm": -0.1,
+    "ytd": -0.1,
+    "yoy": -0.05,
+    "andil_mtm": 0.0,
+    "andil_yoy": 0.0
+  },
+  {
+    "bulan": "Januari",
+    "urutan_bulan": 1,
+    "kelompok": "Rekreasi, Olahraga, dan Budaya",
+    "mtm": 0.11,
+    "ytd": 0.11,
+    "yoy": 0.13,
+    "andil_mtm": 0.0,
+    "andil_yoy": 0.0
+  },
+  {
+    "bulan": "Januari",
+    "urutan_bulan": 1,
+    "kelompok": "Pendidikan",
+    "mtm": 0.02,
+    "ytd": 0.02,
+    "yoy": 2.09,
+    "andil_mtm": 0.0,
+    "andil_yoy": 0.11
+  },
+  {
+    "bulan": "Januari",
+    "urutan_bulan": 1,
+    "kelompok": "Penyediaan Makanan dan Minuman/Restoran",
+    "mtm": 0.46,
+    "ytd": 0.46,
+    "yoy": 2.72,
+    "andil_mtm": 0.05,
+    "andil_yoy": 0.31
+  },
+  {
+    "bulan": "Januari",
+    "urutan_bulan": 1,
+    "kelompok": "Perawatan Pribadi dan Jasa Lainnya",
+    "mtm": 2.42,
+    "ytd": 2.42,
+    "yoy": 18.23,
+    "andil_mtm": 0.14,
+    "andil_yoy": 0.94
+  },
+  {
+    "bulan": "Februari",
+    "urutan_bulan": 2,
+    "kelompok": "Umum (Headline)",
+    "mtm": 0.32,
+    "ytd": -0.71,
+    "yoy": 4.42,
+    "andil_mtm": 0.32,
+    "andil_yoy": 4.42
+  },
+  {
+    "bulan": "Februari",
+    "urutan_bulan": 2,
+    "kelompok": "Makanan, Minuman, dan Tembakau",
+    "mtm": -0.16,
+    "ytd": -3.52,
+    "yoy": 2.14,
+    "andil_mtm": -0.04,
+    "andil_yoy": 0.63
+  },
+  {
+    "bulan": "Februari",
+    "urutan_bulan": 2,
+    "kelompok": "Pakaian dan Alas Kaki",
+    "mtm": 0.0,
+    "ytd": 0.17,
+    "yoy": 0.29,
+    "andil_mtm": 0.0,
+    "andil_yoy": 0.02
+  },
+  {
+    "bulan": "Februari",
+    "urutan_bulan": 2,
+    "kelompok": "Perumahan, Air, Listrik, dan Bahan Bakar Rumah Tangga",
+    "mtm": 1.14,
+    "ytd": 0.14,
+    "yoy": 11.57,
+    "andil_mtm": 0.21,
+    "andil_yoy": 2.05
+  },
+  {
+    "bulan": "Februari",
+    "urutan_bulan": 2,
+    "kelompok": "Perlengkapan, Peralatan, dan Pemeliharaan Rutin Rumah Tangga",
+    "mtm": 0.03,
+    "ytd": 0.51,
+    "yoy": 0.18,
+    "andil_mtm": 0.0,
+    "andil_yoy": 0.01
+  },
+  {
+    "bulan": "Februari",
+    "urutan_bulan": 2,
+    "kelompok": "Kesehatan",
+    "mtm": 0.05,
+    "ytd": 0.46,
+    "yoy": 0.65,
+    "andil_mtm": 0.0,
+    "andil_yoy": 0.02
+  },
+  {
+    "bulan": "Februari",
+    "urutan_bulan": 2,
+    "kelompok": "Transportasi",
+    "mtm": -0.23,
+    "ytd": -0.83,
+    "yoy": 2.47,
+    "andil_mtm": -0.03,
+    "andil_yoy": 0.29
+  },
+  {
+    "bulan": "Februari",
+    "urutan_bulan": 2,
+    "kelompok": "Informasi, Komunikasi, dan Jasa Keuangan",
+    "mtm": 0.24,
+    "ytd": 0.14,
+    "yoy": 0.19,
+    "andil_mtm": 0.01,
+    "andil_yoy": 0.01
+  },
+  {
+    "bulan": "Februari",
+    "urutan_bulan": 2,
+    "kelompok": "Rekreasi, Olahraga, dan Budaya",
+    "mtm": 0.0,
+    "ytd": 0.11,
+    "yoy": 0.14,
+    "andil_mtm": 0.0,
+    "andil_yoy": 0.0
+  },
+  {
+    "bulan": "Februari",
+    "urutan_bulan": 2,
+    "kelompok": "Pendidikan",
+    "mtm": 0.0,
+    "ytd": 0.02,
+    "yoy": 2.09,
+    "andil_mtm": 0.0,
+    "andil_yoy": 0.11
+  },
+  {
+    "bulan": "Februari",
+    "urutan_bulan": 2,
+    "kelompok": "Penyediaan Makanan dan Minuman/Restoran",
+    "mtm": 0.0,
+    "ytd": 0.46,
+    "yoy": 2.39,
+    "andil_mtm": 0.0,
+    "andil_yoy": 0.28
+  },
+  {
+    "bulan": "Februari",
+    "urutan_bulan": 2,
+    "kelompok": "Perawatan Pribadi dan Jasa Lainnya",
+    "mtm": 2.84,
+    "ytd": 5.33,
+    "yoy": 18.96,
+    "andil_mtm": 0.17,
+    "andil_yoy": 1.0
+  },
+  {
+    "bulan": "Maret",
+    "urutan_bulan": 3,
+    "kelompok": "Umum (Headline)",
+    "mtm": -0.02,
+    "ytd": -0.73,
+    "yoy": 3.3,
+    "andil_mtm": -0.02,
+    "andil_yoy": 3.3
+  },
+  {
+    "bulan": "Maret",
+    "urutan_bulan": 3,
+    "kelompok": "Makanan, Minuman, dan Tembakau",
+    "mtm": 0.22,
+    "ytd": -3.31,
+    "yoy": 2.42,
+    "andil_mtm": 0.06,
+    "andil_yoy": 0.71
+  },
+  {
+    "bulan": "Maret",
+    "urutan_bulan": 3,
+    "kelompok": "Pakaian dan Alas Kaki",
+    "mtm": 0.07,
+    "ytd": 0.23,
+    "yoy": 0.35,
+    "andil_mtm": 0.0,
+    "andil_yoy": 0.02
+  },
+  {
+    "bulan": "Maret",
+    "urutan_bulan": 3,
+    "kelompok": "Perumahan, Air, Listrik, dan Bahan Bakar Rumah Tangga",
+    "mtm": 0.01,
+    "ytd": 0.15,
+    "yoy": 5.15,
+    "andil_mtm": 0.0,
+    "andil_yoy": 0.96
+  },
+  {
+    "bulan": "Maret",
+    "urutan_bulan": 3,
+    "kelompok": "Perlengkapan, Peralatan, dan Pemeliharaan Rutin Rumah Tangga",
+    "mtm": 0.06,
+    "ytd": 0.57,
+    "yoy": 0.12,
+    "andil_mtm": 0.0,
+    "andil_yoy": 0.0
+  },
+  {
+    "bulan": "Maret",
+    "urutan_bulan": 3,
+    "kelompok": "Kesehatan",
+    "mtm": 0.0,
+    "ytd": 0.46,
+    "yoy": 0.67,
+    "andil_mtm": 0.0,
+    "andil_yoy": 0.02
+  },
+  {
+    "bulan": "Maret",
+    "urutan_bulan": 3,
+    "kelompok": "Transportasi",
+    "mtm": 0.18,
+    "ytd": -0.65,
+    "yoy": 3.25,
+    "andil_mtm": 0.02,
+    "andil_yoy": 0.38
+  },
+  {
+    "bulan": "Maret",
+    "urutan_bulan": 3,
+    "kelompok": "Informasi, Komunikasi, dan Jasa Keuangan",
+    "mtm": 0.13,
+    "ytd": 0.27,
+    "yoy": 0.32,
+    "andil_mtm": 0.01,
+    "andil_yoy": 0.01
+  },
+  {
+    "bulan": "Maret",
+    "urutan_bulan": 3,
+    "kelompok": "Rekreasi, Olahraga, dan Budaya",
+    "mtm": 0.0,
+    "ytd": 0.11,
+    "yoy": 0.14,
+    "andil_mtm": 0.0,
+    "andil_yoy": 0.0
+  },
+  {
+    "bulan": "Maret",
+    "urutan_bulan": 3,
+    "kelompok": "Pendidikan",
+    "mtm": 0.0,
+    "ytd": 0.02,
+    "yoy": 2.09,
+    "andil_mtm": 0.0,
+    "andil_yoy": 0.11
+  },
+  {
+    "bulan": "Maret",
+    "urutan_bulan": 3,
+    "kelompok": "Penyediaan Makanan dan Minuman/Restoran",
+    "mtm": 0.14,
+    "ytd": 0.6,
+    "yoy": 2.53,
+    "andil_mtm": 0.02,
+    "andil_yoy": 0.29
+  },
+  {
+    "bulan": "Maret",
+    "urutan_bulan": 3,
+    "kelompok": "Perawatan Pribadi dan Jasa Lainnya",
+    "mtm": -2.17,
+    "ytd": 3.04,
+    "yoy": 15.27,
+    "andil_mtm": -0.13,
+    "andil_yoy": 0.8
+  },
+  {
+    "bulan": "April",
+    "urutan_bulan": 4,
+    "kelompok": "Umum (Headline)",
+    "mtm": 0.51,
+    "ytd": -0.22,
+    "yoy": 1.97,
+    "andil_mtm": 0.51,
+    "andil_yoy": 1.97
+  },
+  {
+    "bulan": "April",
+    "urutan_bulan": 4,
+    "kelompok": "Makanan, Minuman, dan Tembakau",
+    "mtm": 0.42,
+    "ytd": -2.9,
+    "yoy": 1.48,
+    "andil_mtm": 0.13,
+    "andil_yoy": 0.43
+  },
+  {
+    "bulan": "April",
+    "urutan_bulan": 4,
+    "kelompok": "Pakaian dan Alas Kaki",
+    "mtm": 0.14,
+    "ytd": 0.37,
+    "yoy": 0.49,
+    "andil_mtm": 0.01,
+    "andil_yoy": 0.03
+  },
+  {
+    "bulan": "April",
+    "urutan_bulan": 4,
+    "kelompok": "Perumahan, Air, Listrik, dan Bahan Bakar Rumah Tangga",
+    "mtm": 0.19,
+    "ytd": 0.34,
+    "yoy": 0.94,
+    "andil_mtm": 0.04,
+    "andil_yoy": 0.18
+  },
+  {
+    "bulan": "April",
+    "urutan_bulan": 4,
+    "kelompok": "Perlengkapan, Peralatan, dan Pemeliharaan Rutin Rumah Tangga",
+    "mtm": 2.93,
+    "ytd": 3.52,
+    "yoy": 3.12,
+    "andil_mtm": 0.09,
+    "andil_yoy": 0.1
+  },
+  {
+    "bulan": "April",
+    "urutan_bulan": 4,
+    "kelompok": "Kesehatan",
+    "mtm": 0.0,
+    "ytd": 0.46,
+    "yoy": 0.67,
+    "andil_mtm": 0.0,
+    "andil_yoy": 0.02
+  },
+  {
+    "bulan": "April",
+    "urutan_bulan": 4,
+    "kelompok": "Transportasi",
+    "mtm": 1.63,
+    "ytd": 0.98,
+    "yoy": 2.09,
+    "andil_mtm": 0.19,
+    "andil_yoy": 0.24
+  },
+  {
+    "bulan": "April",
+    "urutan_bulan": 4,
+    "kelompok": "Informasi, Komunikasi, dan Jasa Keuangan",
+    "mtm": 1.26,
+    "ytd": 1.53,
+    "yoy": 2.3,
+    "andil_mtm": 0.05,
+    "andil_yoy": 0.1
+  },
+  {
+    "bulan": "April",
+    "urutan_bulan": 4,
+    "kelompok": "Rekreasi, Olahraga, dan Budaya",
+    "mtm": -0.01,
+    "ytd": 0.1,
+    "yoy": 0.13,
+    "andil_mtm": 0.0,
+    "andil_yoy": 0.0
+  },
+  {
+    "bulan": "April",
+    "urutan_bulan": 4,
+    "kelompok": "Pendidikan",
+    "mtm": 0.0,
+    "ytd": 0.02,
+    "yoy": 2.09,
+    "andil_mtm": 0.0,
+    "andil_yoy": 0.11
+  },
+  {
+    "bulan": "April",
+    "urutan_bulan": 4,
+    "kelompok": "Penyediaan Makanan dan Minuman/Restoran",
+    "mtm": 0.63,
+    "ytd": 1.23,
+    "yoy": 1.79,
+    "andil_mtm": 0.07,
+    "andil_yoy": 0.2
+  },
+  {
+    "bulan": "April",
+    "urutan_bulan": 4,
+    "kelompok": "Perawatan Pribadi dan Jasa Lainnya",
+    "mtm": -1.16,
+    "ytd": 1.85,
+    "yoy": 10.47,
+    "andil_mtm": -0.07,
+    "andil_yoy": 0.56
+  },
+  {
+    "bulan": "Mei",
+    "urutan_bulan": 5,
+    "kelompok": "Umum (Headline)",
+    "mtm": 0.92,
+    "ytd": 0.69,
+    "yoy": 3.52,
+    "andil_mtm": 0.92,
+    "andil_yoy": 3.52
+  },
+  {
+    "bulan": "Mei",
+    "urutan_bulan": 5,
+    "kelompok": "Makanan, Minuman, dan Tembakau",
+    "mtm": 1.93,
+    "ytd": -1.03,
+    "yoy": 5.49,
+    "andil_mtm": 0.56,
+    "andil_yoy": 1.57
+  },
+  {
+    "bulan": "Mei",
+    "urutan_bulan": 5,
+    "kelompok": "Pakaian dan Alas Kaki",
+    "mtm": 0.24,
+    "ytd": 0.61,
+    "yoy": 0.66,
+    "andil_mtm": 0.02,
+    "andil_yoy": 0.04
+  },
+  {
+    "bulan": "Mei",
+    "urutan_bulan": 5,
+    "kelompok": "Perumahan, Air, Listrik, dan Bahan Bakar Rumah Tangga",
+    "mtm": 0.22,
+    "ytd": 0.56,
+    "yoy": 1.16,
+    "andil_mtm": 0.04,
+    "andil_yoy": 0.22
+  },
+  {
+    "bulan": "Mei",
+    "urutan_bulan": 5,
+    "kelompok": "Perlengkapan, Peralatan, dan Pemeliharaan Rutin Rumah Tangga",
+    "mtm": 1.16,
+    "ytd": 4.72,
+    "yoy": 4.2,
+    "andil_mtm": 0.04,
+    "andil_yoy": 0.14
+  },
+  {
+    "bulan": "Mei",
+    "urutan_bulan": 5,
+    "kelompok": "Kesehatan",
+    "mtm": 0.04,
+    "ytd": 0.5,
+    "yoy": 0.69,
+    "andil_mtm": 0.0,
+    "andil_yoy": 0.02
+  },
+  {
+    "bulan": "Mei",
+    "urutan_bulan": 5,
+    "kelompok": "Transportasi",
+    "mtm": 0.41,
+    "ytd": 1.4,
+    "yoy": 3.22,
+    "andil_mtm": 0.05,
+    "andil_yoy": 0.38
+  },
+  {
+    "bulan": "Mei",
+    "urutan_bulan": 5,
+    "kelompok": "Informasi, Komunikasi, dan Jasa Keuangan",
+    "mtm": 0.0,
+    "ytd": 1.53,
+    "yoy": 1.61,
+    "andil_mtm": 0.0,
+    "andil_yoy": 0.07
+  },
+  {
+    "bulan": "Mei",
+    "urutan_bulan": 5,
+    "kelompok": "Rekreasi, Olahraga, dan Budaya",
+    "mtm": 0.08,
+    "ytd": 0.18,
+    "yoy": 0.13,
+    "andil_mtm": 0.0,
+    "andil_yoy": 0.0
+  },
+  {
+    "bulan": "Mei",
+    "urutan_bulan": 5,
+    "kelompok": "Pendidikan",
+    "mtm": 0.0,
+    "ytd": 0.02,
+    "yoy": 2.09,
+    "andil_mtm": 0.0,
+    "andil_yoy": 0.11
+  },
+  {
+    "bulan": "Mei",
+    "urutan_bulan": 5,
+    "kelompok": "Penyediaan Makanan dan Minuman/Restoran",
+    "mtm": 2.21,
+    "ytd": 3.47,
+    "yoy": 3.85,
+    "andil_mtm": 0.25,
+    "andil_yoy": 0.44
+  },
+  {
+    "bulan": "Mei",
+    "urutan_bulan": 5,
+    "kelompok": "Perawatan Pribadi dan Jasa Lainnya",
+    "mtm": -0.7,
+    "ytd": 1.13,
+    "yoy": 10.01,
+    "andil_mtm": -0.04,
+    "andil_yoy": 0.53
+  },
+  {
+    "bulan": "Juni",
+    "urutan_bulan": 6,
+    "kelompok": "Umum (Headline)",
+    "mtm": 0.36,
+    "ytd": 1.05,
+    "yoy": 4.19,
+    "andil_mtm": 0.36,
+    "andil_yoy": 4.19
+  },
+  {
+    "bulan": "Juni",
+    "urutan_bulan": 6,
+    "kelompok": "Makanan, Minuman, dan Tembakau",
+    "mtm": -0.01,
+    "ytd": -1.04,
+    "yoy": 6.9,
+    "andil_mtm": 0.0,
+    "andil_yoy": 1.94
+  },
+  {
+    "bulan": "Juni",
+    "urutan_bulan": 6,
+    "kelompok": "Pakaian dan Alas Kaki",
+    "mtm": 0.34,
+    "ytd": 0.96,
+    "yoy": 1.03,
+    "andil_mtm": 0.02,
+    "andil_yoy": 0.07
+  },
+  {
+    "bulan": "Juni",
+    "urutan_bulan": 6,
+    "kelompok": "Perumahan, Air, Listrik, dan Bahan Bakar Rumah Tangga",
+    "mtm": 0.17,
+    "ytd": 0.73,
+    "yoy": 1.12,
+    "andil_mtm": 0.03,
+    "andil_yoy": 0.22
+  },
+  {
+    "bulan": "Juni",
+    "urutan_bulan": 6,
+    "kelompok": "Perlengkapan, Peralatan, dan Pemeliharaan Rutin Rumah Tangga",
+    "mtm": 0.55,
+    "ytd": 5.3,
+    "yoy": 4.86,
+    "andil_mtm": 0.02,
+    "andil_yoy": 0.16
+  },
+  {
+    "bulan": "Juni",
+    "urutan_bulan": 6,
+    "kelompok": "Kesehatan",
+    "mtm": 0.07,
+    "ytd": 0.57,
+    "yoy": 0.71,
+    "andil_mtm": 0.0,
+    "andil_yoy": 0.02
+  },
+  {
+    "bulan": "Juni",
+    "urutan_bulan": 6,
+    "kelompok": "Transportasi",
+    "mtm": 1.7,
+    "ytd": 3.11,
+    "yoy": 4.71,
+    "andil_mtm": 0.2,
+    "andil_yoy": 0.55
+  },
+  {
+    "bulan": "Juni",
+    "urutan_bulan": 6,
+    "kelompok": "Informasi, Komunikasi, dan Jasa Keuangan",
+    "mtm": 0.84,
+    "ytd": 2.39,
+    "yoy": 2.43,
+    "andil_mtm": 0.04,
+    "andil_yoy": 0.1
+  },
+  {
+    "bulan": "Juni",
+    "urutan_bulan": 6,
+    "kelompok": "Rekreasi, Olahraga, dan Budaya",
+    "mtm": 0.21,
+    "ytd": 0.39,
+    "yoy": 0.34,
+    "andil_mtm": 0.0,
+    "andil_yoy": 0.01
+  },
+  {
+    "bulan": "Juni",
+    "urutan_bulan": 6,
+    "kelompok": "Pendidikan",
+    "mtm": 0.0,
+    "ytd": 0.02,
+    "yoy": 2.09,
+    "andil_mtm": 0.0,
+    "andil_yoy": 0.11
+  },
+  {
+    "bulan": "Juni",
+    "urutan_bulan": 6,
+    "kelompok": "Penyediaan Makanan dan Minuman/Restoran",
+    "mtm": 0.07,
+    "ytd": 3.54,
+    "yoy": 3.93,
+    "andil_mtm": 0.01,
+    "andil_yoy": 0.45
+  },
+  {
+    "bulan": "Juni",
+    "urutan_bulan": 6,
+    "kelompok": "Perawatan Pribadi dan Jasa Lainnya",
+    "mtm": 0.79,
+    "ytd": 1.93,
+    "yoy": 10.47,
+    "andil_mtm": 0.04,
+    "andil_yoy": 0.56
+  },
+  {
+    "bulan": "Juli",
+    "urutan_bulan": 7,
+    "kelompok": "Umum (Headline)",
+    "mtm": 0.09,
+    "ytd": 1.14,
+    "yoy": 3.82,
+    "andil_mtm": 0.09,
+    "andil_yoy": 3.82
+  },
+  {
+    "bulan": "Juli",
+    "urutan_bulan": 7,
+    "kelompok": "Makanan, Minuman dan Tembakau",
+    "mtm": -0.41,
+    "ytd": -1.44,
+    "yoy": 5.0,
+    "andil_mtm": -0.12,
+    "andil_yoy": 1.42
+  },
+  {
+    "bulan": "Juli",
+    "urutan_bulan": 7,
+    "kelompok": "Pakaian dan Alas Kaki",
+    "mtm": 0.6,
+    "ytd": 1.56,
+    "yoy": 1.56,
+    "andil_mtm": 0.04,
+    "andil_yoy": 0.1
+  },
+  {
+    "bulan": "Juli",
+    "urutan_bulan": 7,
+    "kelompok": "Perumahan, Air, Listrik, dan Bahan Bakar Rumah Tangga",
+    "mtm": 0.07,
+    "ytd": 0.79,
+    "yoy": 1.18,
+    "andil_mtm": 0.01,
+    "andil_yoy": 0.23
+  },
+  {
+    "bulan": "Juli",
+    "urutan_bulan": 7,
+    "kelompok": "Perlengkapan, Peralatan dan Pemeliharaan Rutin Rumah Tangga",
+    "mtm": 0.27,
+    "ytd": 5.58,
+    "yoy": 5.13,
+    "andil_mtm": 0.01,
+    "andil_yoy": 0.17
+  },
+  {
+    "bulan": "Juli",
+    "urutan_bulan": 7,
+    "kelompok": "Kesehatan",
+    "mtm": 0.31,
+    "ytd": 0.88,
+    "yoy": 1.03,
+    "andil_mtm": 0.01,
+    "andil_yoy": 0.03
+  },
+  {
+    "bulan": "Juli",
+    "urutan_bulan": 7,
+    "kelompok": "Transportasi",
+    "mtm": 0.98,
+    "ytd": 4.13,
+    "yoy": 5.72,
+    "andil_mtm": 0.12,
+    "andil_yoy": 0.67
+  },
+  {
+    "bulan": "Juli",
+    "urutan_bulan": 7,
+    "kelompok": "Informasi, Komunikasi, dan Jasa Keuangan",
+    "mtm": 0.27,
+    "ytd": 2.67,
+    "yoy": 2.71,
+    "andil_mtm": 0.01,
+    "andil_yoy": 0.12
+  },
+  {
+    "bulan": "Juli",
+    "urutan_bulan": 7,
+    "kelompok": "Rekreasi, Olahraga, dan Budaya",
+    "mtm": 0.23,
+    "ytd": 0.62,
+    "yoy": 0.57,
+    "andil_mtm": 0.0,
+    "andil_yoy": 0.01
+  },
+  {
+    "bulan": "Juli",
+    "urutan_bulan": 7,
+    "kelompok": "Pendidikan",
+    "mtm": 1.35,
+    "ytd": 1.37,
+    "yoy": 2.06,
+    "andil_mtm": 0.07,
+    "andil_yoy": 0.11
+  },
+  {
+    "bulan": "Juli",
+    "urutan_bulan": 7,
+    "kelompok": "Penyediaan Makanan dan Minuman/Restoran",
+    "mtm": 0.11,
+    "ytd": 3.65,
+    "yoy": 3.94,
+    "andil_mtm": 0.01,
+    "andil_yoy": 0.45
+  },
+  {
+    "bulan": "Juli",
+    "urutan_bulan": 7,
+    "kelompok": "Perawatan Pribadi dan Jasa Lainnya",
+    "mtm": -1.26,
+    "ytd": 0.65,
+    "yoy": 9.6,
+    "andil_mtm": -0.07,
+    "andil_yoy": 0.51
+  }
+]

@@ -1,0 +1,326 @@
+[
+  {
+    "wilayah": "nasional",
+    "bulan": "Januari",
+    "urutan_bulan": 1,
+    "ihk": null,
+    "mtm": -0.15,
+    "ytd": -0.15,
+    "yoy": 3.55
+  },
+  {
+    "wilayah": "nasional",
+    "bulan": "Februari",
+    "urutan_bulan": 2,
+    "ihk": null,
+    "mtm": 0.68,
+    "ytd": 0.53,
+    "yoy": 4.76
+  },
+  {
+    "wilayah": "nasional",
+    "bulan": "Maret",
+    "urutan_bulan": 3,
+    "ihk": null,
+    "mtm": 0.41,
+    "ytd": 0.94,
+    "yoy": 3.48
+  },
+  {
+    "wilayah": "nasional",
+    "bulan": "April",
+    "urutan_bulan": 4,
+    "ihk": null,
+    "mtm": 0.13,
+    "ytd": 1.06,
+    "yoy": 2.42
+  },
+  {
+    "wilayah": "nasional",
+    "bulan": "Mei",
+    "urutan_bulan": 5,
+    "ihk": null,
+    "mtm": 0.28,
+    "ytd": 1.35,
+    "yoy": 3.08
+  },
+  {
+    "wilayah": "nasional",
+    "bulan": "Juni",
+    "urutan_bulan": 6,
+    "ihk": null,
+    "mtm": 0.44,
+    "ytd": 1.79,
+    "yoy": 3.34
+  },
+  {
+    "wilayah": "nasional",
+    "bulan": "Juli",
+    "urutan_bulan": 7,
+    "ihk": null,
+    "mtm": 0.14,
+    "ytd": 1.65,
+    "yoy": 2.88
+  },
+  {
+    "wilayah": "nasional",
+    "bulan": "Agustus",
+    "urutan_bulan": 8,
+    "ihk": null,
+    "mtm": null,
+    "ytd": null,
+    "yoy": null
+  },
+  {
+    "wilayah": "nasional",
+    "bulan": "September",
+    "urutan_bulan": 9,
+    "ihk": null,
+    "mtm": null,
+    "ytd": null,
+    "yoy": null
+  },
+  {
+    "wilayah": "nasional",
+    "bulan": "Oktober",
+    "urutan_bulan": 10,
+    "ihk": null,
+    "mtm": null,
+    "ytd": null,
+    "yoy": null
+  },
+  {
+    "wilayah": "nasional",
+    "bulan": "November",
+    "urutan_bulan": 11,
+    "ihk": null,
+    "mtm": null,
+    "ytd": null,
+    "yoy": null
+  },
+  {
+    "wilayah": "nasional",
+    "bulan": "Desember",
+    "urutan_bulan": 12,
+    "ihk": null,
+    "mtm": null,
+    "ytd": null,
+    "yoy": null
+  },
+  {
+    "wilayah": "sumbar",
+    "bulan": "Januari",
+    "urutan_bulan": 1,
+    "ihk": null,
+    "mtm": -1.15,
+    "ytd": -1.15,
+    "yoy": 3.92
+  },
+  {
+    "wilayah": "sumbar",
+    "bulan": "Februari",
+    "urutan_bulan": 2,
+    "ihk": null,
+    "mtm": 0.03,
+    "ytd": -0.85,
+    "yoy": 4.39
+  },
+  {
+    "wilayah": "sumbar",
+    "bulan": "Maret",
+    "urutan_bulan": 3,
+    "ihk": null,
+    "mtm": 0.04,
+    "ytd": -0.82,
+    "yoy": 3.37
+  },
+  {
+    "wilayah": "sumbar",
+    "bulan": "April",
+    "urutan_bulan": 4,
+    "ihk": null,
+    "mtm": 0.39,
+    "ytd": -0.43,
+    "yoy": 1.97
+  },
+  {
+    "wilayah": "sumbar",
+    "bulan": "Mei",
+    "urutan_bulan": 5,
+    "ihk": null,
+    "mtm": 0.9,
+    "ytd": 0.47,
+    "yoy": 3.91
+  },
+  {
+    "wilayah": "sumbar",
+    "bulan": "Juni",
+    "urutan_bulan": 6,
+    "ihk": null,
+    "mtm": 0.5,
+    "ytd": 0.98,
+    "yoy": 4.7
+  },
+  {
+    "wilayah": "sumbar",
+    "bulan": "Juli",
+    "urutan_bulan": 7,
+    "ihk": null,
+    "mtm": 0.07,
+    "ytd": 1.05,
+    "yoy": 4.12
+  },
+  {
+    "wilayah": "sumbar",
+    "bulan": "Agustus",
+    "urutan_bulan": 8,
+    "ihk": null,
+    "mtm": null,
+    "ytd": null,
+    "yoy": null
+  },
+  {
+    "wilayah": "sumbar",
+    "bulan": "September",
+    "urutan_bulan": 9,
+    "ihk": null,
+    "mtm": null,
+    "ytd": null,
+    "yoy": null
+  },
+  {
+    "wilayah": "sumbar",
+    "bulan": "Oktober",
+    "urutan_bulan": 10,
+    "ihk": null,
+    "mtm": null,
+    "ytd": null,
+    "yoy": null
+  },
+  {
+    "wilayah": "sumbar",
+    "bulan": "November",
+    "urutan_bulan": 11,
+    "ihk": null,
+    "mtm": null,
+    "ytd": null,
+    "yoy": null
+  },
+  {
+    "wilayah": "sumbar",
+    "bulan": "Desember",
+    "urutan_bulan": 12,
+    "ihk": null,
+    "mtm": null,
+    "ytd": null,
+    "yoy": null
+  },
+  {
+    "wilayah": "padang",
+    "bulan": "Januari",
+    "urutan_bulan": 1,
+    "ihk": 110.52,
+    "mtm": -1.02,
+    "ytd": -1.02,
+    "yoy": 3.88
+  },
+  {
+    "wilayah": "padang",
+    "bulan": "Februari",
+    "urutan_bulan": 2,
+    "ihk": 110.87,
+    "mtm": 0.32,
+    "ytd": -0.71,
+    "yoy": 4.42
+  },
+  {
+    "wilayah": "padang",
+    "bulan": "Maret",
+    "urutan_bulan": 3,
+    "ihk": 110.85,
+    "mtm": -0.02,
+    "ytd": -0.73,
+    "yoy": 3.3
+  },
+  {
+    "wilayah": "padang",
+    "bulan": "April",
+    "urutan_bulan": 4,
+    "ihk": 111.41,
+    "mtm": 0.51,
+    "ytd": 0.22,
+    "yoy": 1.97
+  },
+  {
+    "wilayah": "padang",
+    "bulan": "Mei",
+    "urutan_bulan": 5,
+    "ihk": 112.43,
+    "mtm": 0.92,
+    "ytd": 0.69,
+    "yoy": 3.52
+  },
+  {
+    "wilayah": "padang",
+    "bulan": "Juni",
+    "urutan_bulan": 6,
+    "ihk": 112.83,
+    "mtm": 0.36,
+    "ytd": 1.05,
+    "yoy": 4.19
+  },
+  {
+    "wilayah": "padang",
+    "bulan": "Juli",
+    "urutan_bulan": 7,
+    "ihk": 112.93,
+    "mtm": 0.09,
+    "ytd": 1.14,
+    "yoy": 3.82
+  },
+  {
+    "wilayah": "padang",
+    "bulan": "Agustus",
+    "urutan_bulan": 8,
+    "ihk": null,
+    "mtm": null,
+    "ytd": null,
+    "yoy": null
+  },
+  {
+    "wilayah": "padang",
+    "bulan": "September",
+    "urutan_bulan": 9,
+    "ihk": null,
+    "mtm": null,
+    "ytd": null,
+    "yoy": null
+  },
+  {
+    "wilayah": "padang",
+    "bulan": "Oktober",
+    "urutan_bulan": 10,
+    "ihk": null,
+    "mtm": null,
+    "ytd": null,
+    "yoy": null
+  },
+  {
+    "wilayah": "padang",
+    "bulan": "November",
+    "urutan_bulan": 11,
+    "ihk": null,
+    "mtm": null,
+    "ytd": null,
+    "yoy": null
+  },
+  {
+    "wilayah": "padang",
+    "bulan": "Desember",
+    "urutan_bulan": 12,
+    "ihk": null,
+    "mtm": null,
+    "ytd": null,
+    "yoy": null
+  }
+]
